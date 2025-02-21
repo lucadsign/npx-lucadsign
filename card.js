@@ -16,7 +16,7 @@ const data = {
     labelPortfolio: chalk.white.bold("  Portfolio:"),
     labelWork: chalk.white.bold("          Work:"),
     name: chalk.bold.green("                   Luca C."),
-    npx: chalk.red("npx") + " " + chalk.white("lucadsign"),
+    npx: chalk.red("npx") + " " + chalk.white("luca.dsign"),
     portfolio: chalk.cyan("https://lucadsign.vercel.app"),
     work: `${chalk.white("Founder at")} ${chalk.hex("#ff9900").bold("Currenton")}`,
     
