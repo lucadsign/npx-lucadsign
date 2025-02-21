@@ -1,20 +1,20 @@
-# npx lucadsign
+# npx luca.dsign
 
 ## Overview
 
-`npx lucadsign` is a digital business card CLI tool that provides quick access to my contact details, work, and social profiles.
+`npx luca.dsign` is a digital business card CLI tool that provides quick access to my contact details, work, and social profiles.
 
 ## Installation & Usage
 
 Since this tool is executed via `npx`, no installation is required. You can run it directly with:
 
 ```sh
-npx lucadsign
+npx luca.dsign
 ```
 
 ## What It Does
 
-When executed, `npx lucadsign` displays my digital business card with the contact information.
+When executed, `npx luca.dsign` displays my digital business card with the contact information.
 
 ## Features
 
